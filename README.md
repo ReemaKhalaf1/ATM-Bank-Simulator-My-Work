@@ -6,6 +6,12 @@
 
 ---
 
+## 🎥 Live Demo Video
+
+[Watch the FIN Bank ATM Demo on OneDrive](https://unibrightonac-my.sharepoint.com/:v:/g/personal/a_ismail5_uni_brighton_ac_uk/IQAk2N114WHPRK7iP-YjUt_KAbLaqJM_SbpQUYGulYz_zPE)
+
+---
+
 ## ✅ Features I Fully Implemented
 
 ### 1. Dynamic Account Creation (Create Account)
@@ -71,7 +77,7 @@
 
 - **Manual testing:** Verified every feature (Create Account → login → lock → Mini Statement → Auto‑Save → audit.log)
 - **GitHub commits:** All my changes are under my GitHub account (`ReemaKhalaf1`) in the team repository.
-- **Audit log sample:** 
+
 ---
 
 ## 🔗 Links
