@@ -71,8 +71,7 @@
 
 - **Manual testing:** Verified every feature (Create Account → login → lock → Mini Statement → Auto‑Save → audit.log)
 - **GitHub commits:** All my changes are under my GitHub account (`ReemaKhalaf1`) in the team repository.
-- **Audit log sample:** (Paste a screenshot or snippet here if you have one)
-
+- **Audit log sample:** 
 ---
 
 ## 🔗 Links
